@@ -9,7 +9,7 @@ This project helped me practice full **CRUD operations**, basic **search functio
 
 - Create, view, update, and delete contacts
 - Search contacts by **name, email, or phone number**
-- Session-based contact isolation (each user sees only their own contacts)
+- Session-based contact isolation (contacts are associated with a browser session)
 - Styled UI using **SCSS**
 - Flash messages for validation and errors
 - Responsive, card-based contact layout
