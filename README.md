@@ -18,8 +18,7 @@ This project helped me practice full **CRUD operations**, basic **search functio
 ## Screenshots
 
 ### Contact List
-![Contact List](<img width="1801" height="981" alt="contact-list" src="https://github.com/user-attachments/assets/1626b210-fa81-40b2-a238-d103b7313f08" />
-)
+![Contact List](screenshots/contact-list.png)
 
 ### Add Contact
 ![Add Contact](screenshots/add-contact.png)
