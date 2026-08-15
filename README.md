@@ -15,6 +15,18 @@ This project helped me practice full **CRUD operations**, basic **search functio
 - Responsive, card-based contact layout
 
 ---
+## Screenshots
+
+### Contact List
+![Contact List](screenshots/contact-list.png)
+
+### Add Contact
+![Add Contact](screenshots/add-contact.png)
+
+### Update Contact
+![Update Contact](screenshots/update-contact.png)
+
+---
 
 ## Tech Stack
 
@@ -43,6 +55,11 @@ contacts-manager/
 ├── static/                # Static assets
 │   └── styles.scss        # SCSS source file (compiled locally)
 │
+├── screenshots/
+│   ├── contact-list.png
+│   ├── add-contact.png
+│   └── update-contact.png
+|
 └── venv/                  # Virtual environment (ignored)
 
 ```
