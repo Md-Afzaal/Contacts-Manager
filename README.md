@@ -1,6 +1,6 @@
 # Contacts Manager (Flask CRUD App)
 
-A simple **Contacts Manager** web application built using **Flask**, **SQLAlchemy**, and **SCSS**.  
+A full-stack CRUD web application for managing contacts, built with **Flask**, **SQLAlchemy**, **SQLite**, **Jinja2**, and **SCSS**. The project implements contact management, search, validation, and session-based user data isolation.  
 This project helped me practice full **CRUD operations**, basic **search functionality**, session-based user separation, and frontend styling with SCSS.
 
 ---
@@ -103,6 +103,17 @@ sass --watch static:static
 
 ⚠️ Compiled CSS files are ignored in Git.
 Make sure the watcher is running while developing.
+
+## What I Learned
+
+- Building CRUD applications with Flask
+- Working with SQLAlchemy ORM
+- Managing SQLite databases
+- Handling form validation and database errors
+- Using Flask sessions to separate user data
+- Implementing search functionality
+- Structuring Flask templates with Jinja2
+- Styling a Flask application using SCSS
 
 ## License
 This project is licensed under the MIT License.
