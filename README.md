@@ -38,6 +38,7 @@ contacts-manager/
 │   ├── index.html         # Contact list + search
 │   ├── add.html           # Add new contact form
 │   └── update.html        # Update contact form
+|   └── base.html
 │
 ├── static/                # Static assets
 │   └── styles.scss        # SCSS source file (compiled locally)
